@@ -1,0 +1,1 @@
+Just a simple server for pulling down data from the riot API, for some things with friends
